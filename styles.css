@@ -1,0 +1,38 @@
+* {
+    margin: 0 auto;
+}
+
+.tabheading {
+    background-color: blueviolet;
+    color:aliceblue;
+}
+
+.row1 {
+    font-family: monospace;
+}
+
+table {
+    width: 600px;
+    padding: 10px 10px;
+    background-color: lightgrey;
+    border: 2px solid black;
+    margin: 20px auto;
+}
+
+h1 {
+    text-align: center;
+    padding: 10 10;
+    font-size: 32px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    padding: 10 10;
+    margin: 20px auto;
+    color: purple;
+}
+
+#tab2 {
+    margin: 20px auto;
+}
